@@ -54,6 +54,27 @@ This is the base fina product. I stayed true to the stacking of foam eyes idea b
 Another important thing that I did not originally consider was the placement of the double servo. I originally planned to put it at the end of the Wall-e head but this would mean there would be a uneven weight distribution, which is where the wooden block came in. THe block allowed me to confidently place the doule servo in the middle of the head, where the head would easily balance and have support.
 
 
+## Arms
 
+#### Sketch
 
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Sketch_Hands.jpg)
+
+The Arms proved to be my biggest challenge both construction wise and conceptually. I knew from the start that it would be difficult to achieve both movement in the y-axis as well as roatation of the arms, in order to mimic the "holding hands" action shown in the movie (Which would be the big awww moment of the performance.) I originally planned for 2 motors to be attached to each other, one controlling rotation and one controlling movement up and down.
+
+#### Materials Used (Per Arm)
+
+- Foam (For the arm and hands)
+- 1 large servo
+- 1 micro servo
+
+#### Process & Product
+
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Arm.jpg)
+
+As shown in the final base product above, I didn't stick to the original plan. I was right in predicting the weight distribution would be too much and the servos would not be able to confidently lift the arms and mantain itself on them, so the arms would keep falling off. Instead, I decided to have a servo at the end of the arm attached to its side to control the lifting of the arms. This worked a lot better.
+
+However, the issue with this in controlling hand movement. I decided to disregard the planned material in the Sketch section and built the entirety of the arm out of foam, as it is much lighter and easier to lift. The, I buil a channel in the arms in which I would be able to attach a micro servo and run its wirings through. 
+
+##### ( I haven'y built this yet becuase there wasn't enough foam, but Im going to build a simple thing hand and attach it to the micro servo, which would control the rotation of the hand)
 
