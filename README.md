@@ -53,6 +53,10 @@ This is the base fina product. I stayed true to the stacking of foam eyes idea b
 
 Another important thing that I did not originally consider was the placement of the double servo. I originally planned to put it at the end of the Wall-e head but this would mean there would be a uneven weight distribution, which is where the wooden block came in. THe block allowed me to confidently place the doule servo in the middle of the head, where the head would easily balance and have support.
 
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Neck_Bottom.jpg)
+
+I then cut out two wooden planks to act us the support e=neck for Wall-E. To attach them to the wooden body, I used L-Brackets both on the bottom and on the top to ensure stability. However, I did not use L-brackets on both sides of the neck. This means that the eck to not securely fastened and still has a little wobble and shake to it, which i believe plays into the aesthetic appeal fo a vulnerable and feeble Wall-E.
+
 
 ## Arms
 
@@ -76,5 +80,45 @@ As shown in the final base product above, I didn't stick to the original plan. I
 
 However, the issue with this in controlling hand movement. I decided to disregard the planned material in the Sketch section and built the entirety of the arm out of foam, as it is much lighter and easier to lift. The, I buil a channel in the arms in which I would be able to attach a micro servo and run its wirings through. 
 
-##### ( I haven'y built this yet becuase there wasn't enough foam, but Im going to build a simple thing hand and attach it to the micro servo, which would control the rotation of the hand)
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Arm_Full.jpg)
+
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Hand_Servo.jpg)
+
+This is the implementation fo the hand I chose to use. I cut out rectangular peices of foma and gave "palm" two opposing 45 degree bezels to give a more interesting and accurate shaping to Wall-E's hands. The two pieces of foam are attached using hot glue and skewers. I then glued the micro servo onto a piece of cardboard which is securely glued onti to the hands. By using foam for the hands, the meothed of fastening and securing the attachment of the cardboard and servo became a minor issue, as the hands are very light and easy to lift. The servo is attached to the arm using a series of cardboard cut outs and hot glue, while its wirings run through the channel mentioned previously
+
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Arm_Brace.jpg)
+
+To attach the arm servo to the body, I made a wooden "brace" of sorts to tightly cling onto the servo and give a clear and firm place for the servo to rest. The brace is wood glued onto the body and has a layer of hot glue around the perimeter. This was to secure the brace while the wood glue dried. I plan to fasten the servo to the glue using hot glue and screws on both sides.
+
+## Wheels
+
+#### Sketch
+
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Sketch_Wheels.jpg)
+
+The wheels proved to be quite challenging and compromise had to be made becuase I think it is not feasible to build a working track like the original Wall-E in the given amount of time. Instead, I plan on attaching the wheels to the base of Wall-E's body and using cardboard with something sturdy yet malleable like wire to make a track like shape on glue that onto the body. The cardboard will be there for purely aesthetic purpose and will not really serve as a functional component to the bot. This would allow for simple movement using to DC motors, while still retaining the iconic Wall-E image.
+
+#### Materials Used
+- 2 DC Motors
+- 4 L-Brackets
+- 8 DC Motor bolts
+- 4 1/2 nails
+- 1 Caster wheel
+- Wood
+
+#### Process & Product
+
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Wheels.jpg)
+
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Wheels_Bolt.jpg)
+
+Here are the wheels bolted down to the bottom of Wall-E, I used wide L-brackets and the specific motor bolts to attach them and the used a series of 1/2 nails to drill the brackets and the motors to the bottom of the body.
+
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Caster.jpg)
+
+I then took measurements of how tall the motors were compared to the bottom of the body and cut wood and sanded so that the caster wheel would stand on even ground. I was not fully confident with drilling a nail intot the wood becuase of my chi=oice of wwod, so i decided to wood glue the caster support structure on instead.
+
+
+## Body
+
 
