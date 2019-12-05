@@ -122,3 +122,7 @@ I then took measurements of how tall the motors were compared to the bottom of t
 ## Body
 
 
+
+# REHEARSAL
+
+https://youtu.be/NnkSlNV1Wus
