@@ -53,7 +53,17 @@ void setup() {
 
 void loop() {
   uint8_t i;
-  delay(1000); 
+  servo4.write(140);
+  servo1.write(40);
+  delay(5000); 
+  for (pos = 140; pos >= 90; pos -= 1) { 
+    servo4.write(pos);   
+    delay(10);                       
+  }
+  for (pos = 40; pos <= 90; pos += 1) { 
+    servo1.write(pos);   
+    delay(10);                       
+  }
   // Head up left and right --> look to right arm
   for (pos =90; pos <= 120; pos += 1) { 
     servo6.write(pos);  
