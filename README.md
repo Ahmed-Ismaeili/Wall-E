@@ -121,7 +121,13 @@ I then took measurements of how tall the motors were compared to the bottom of t
 
 ## Body
 
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Walle%20-%20Body.jpg)
 
+Tho Body was made in teh scene shop and is a 45 x 45 cm cube. There is no back side s that there would be easy access and storage for and to the electronic components inside of the wall-e bot. Wall-e's simple geomtric shape allowed for a simple design and a focus on aestheitic appearence and technical programming and functionality. 
+
+![alt text](https://github.com/Ahmed-Ismaeili/Wall-E/blob/master/Walle%20-%20Paint.jpg)
+
+After that I painted hima dn tried to make him as aestheically accurate as i cold.
 
 # REHEARSAL
 
